@@ -29,6 +29,7 @@ Suggests: BiocManager, Biobase,
 	RUnit
 License: Artistic-2.0
 LazyLoad: yes
+ByteCompile: false
 Collate: utils.R
 	OnDiskLongTable_old-class.R
 	OnDiskLongTable-class.R
